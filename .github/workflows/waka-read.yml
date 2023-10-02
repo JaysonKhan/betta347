@@ -23,19 +23,20 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          CODE_LANG: ruby # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
+          
+          AUTHOR_NAME: Jahongir # optional
+          AUTHOR_EMAIL: bettaxacker@gmail.com # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Jahongir # optional
-          AUTHOR_EMAIL: bettaxacker@gmail.com # optional
           # you can populate email-id with secretes instead
