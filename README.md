@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and find me!💬
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxodXByN284b3dsdnA0bWc4c3kyYW96NTc4eGVqMHV0a2s0M250NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zll2OF7cp3HkAhxkJM/giphy.gif">
 </p>
 
