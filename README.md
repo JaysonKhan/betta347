@@ -13,11 +13,21 @@
 </a>
 
 <a href="https://medium.com/@j_khan347">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-256.svg"/>
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-256.png"/>
+</a>
+
+
+<a href="https://t.me/betta_347">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>
 </a>
 
 <a href="https://twitter.com/j_khan347">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/>
+</a>
+
+
+<a href="https://www.pinterest.com/betta347/">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-256.png"/>
 </a>
 
 </p>
