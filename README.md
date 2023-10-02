@@ -29,6 +29,23 @@
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 30 January 2023 - To: 01 October 2023
+
+Total Time: 838 hrs 11 mins
+
+Kotlin                 491 hrs 56 mins >>>>>>>>>>>>>>>----------   58.68 %
+Dart                   162 hrs 38 mins >>>>>--------------------   19.40 %
+XML                    83 hrs 49 mins  >>>----------------------   10.00 %
+Java                   72 hrs 24 mins  >>-----------------------   08.64 %
+Groovy                 8 hrs 52 mins   -------------------------   01.06 %
+YAML                   5 hrs 59 mins   -------------------------   00.71 %
+Gradle                 5 hrs 37 mins   -------------------------   00.67 %
+GitIgnore file         2 hrs 12 mins   -------------------------   00.26 %
+JSON                   1 hr 41 mins    -------------------------   00.20 %
+Text                   1 hr 22 mins    -------------------------   00.16 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
