@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://medium.com/@j_khan347">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-256.png"/>
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-256.svg"/>
 </a>
 
 <a href="https://twitter.com/j_khan347">
