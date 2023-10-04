@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Total Time: 33 hrs 30 mins
+Total Time: 31 hrs 44 mins
 
-Dart              27 hrs 4 mins   >>>>>>>>>>>>>>>>>>>>-----   80.78 %
-Kotlin            3 hrs 9 mins    >>-----------------------   09.40 %
-YAML              1 hr 11 mins    >------------------------   03.56 %
-Groovy            43 mins         >------------------------   02.17 %
-Java              34 mins         -------------------------   01.70 %
+Dart              26 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>----   82.98 %
+Kotlin            2 hrs 39 mins   >>-----------------------   08.40 %
+YAML              1 hr 11 mins    >------------------------   03.76 %
+Java              34 mins         -------------------------   01.79 %
+Groovy            26 mins         -------------------------   01.41 %
 ```
 
 <!--END_SECTION:waka-->
