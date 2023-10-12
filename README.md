@@ -79,9 +79,7 @@ Other            28 mins         -------------------------   00.85 %
 
 <!--END_SECTION:waka-->
 
-### Code time
-[![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j_khan347&show_icons=true&theme=ruby)](https://wakatime.com/@j_khan347)
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **betta347/betta347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
