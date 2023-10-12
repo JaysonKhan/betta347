@@ -81,7 +81,7 @@ Groovy           13 mins         -------------------------   00.42 %
 <!--END_SECTION:waka-->
 
 ### Code time
-[![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j_khan347&show_icons=true&theme=react?last_year)](https://github.com/j_khan347/github-readme-stats)
+[![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j_khan347&show_icons=true&theme=ruby)](https://wakatime.com/@j_khan347)
 <br/>
 
 <!--
