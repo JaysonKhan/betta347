@@ -82,7 +82,7 @@ Other             3 hrs 43 mins   >>-----------------------   07.22 %
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
   <a href="https://twitter.com/Guibz16" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a> 
   <a href="https://twitter.com/Guibz16" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
