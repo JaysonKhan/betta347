@@ -88,7 +88,7 @@ Other             3 hrs 43 mins   >>-----------------------   07.22 %
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
    <a href="https://www.pinterest.com/betta347/" target="_blank">
-    <img alt="Pinterest" src="https://img.shields.io/badge/pinterest-%23C93646.svg?&style=for-the-badge&logo=pinterest&logoColor=red" />
+    <img alt="Pinterest" src="https://img.shields.io/badge/pinterest-%23C93646.svg?&style=for-the-badge&logo=pinterest&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/khan347/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
