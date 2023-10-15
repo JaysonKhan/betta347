@@ -2,36 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello_everyboyd!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and find me!💬
-</h1>
-
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/khan347/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
-</a>
-
-<a href="https://medium.com/@j_khan347">
-  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-256.png"/>
-</a>
-
-
-<a href="https://t.me/betta_347">
-  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>
-</a>
-
-<a href="https://twitter.com/j_khan347">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/>
-</a>
-
-
-<a href="https://www.pinterest.com/betta347/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-256.png"/>
-</a>
-
-</p>
-
 <p align="center">
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxodXByN284b3dsdnA0bWc4c3kyYW96NTc4eGVqMHV0a2s0M250NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zll2OF7cp3HkAhxkJM/giphy.gif"  width="400" >
   <img src= "https://i.pinimg.com/originals/4c/c5/51/4cc551bf58d8fd97efd61f7cd0611836.png"  width="400">
@@ -77,7 +47,7 @@ Other             3 hrs 43 mins   >>-----------------------   07.22 %
 
 <!--END_SECTION:waka-->
 <h3>Where to find me</h3>
-<p>
+<p align = "center">
   <a href="https://github.com/betta347" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
@@ -97,21 +67,6 @@ Other             3 hrs 43 mins   >>-----------------------   07.22 %
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-
-<!--
-**betta347/betta347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
