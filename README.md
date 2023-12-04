@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 30 hrs 33 mins
+Total Time: 31 hrs 35 mins
 
-Dart              29 hrs 34 mins  >>>>>>>>>>>>>>>>>>-------   72.85 %
-Other             10 hrs 2 mins   >>>>>>-------------------   24.72 %
+Dart              30 hrs 41 mins  >>>>>>>>>>>>>>>>>>-------   70.29 %
+Other             12 hrs 4 mins   >>>>>>>------------------   27.65 %
 ```
 
 <!--END_SECTION:waka-->
