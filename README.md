@@ -37,11 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 25 December 2023 - To: 01 January 2024
+From: 15 January 2024 - To: 22 January 2024
 
-Total Time: 0 secs
+Total Time: 21 hrs 30 mins
 
-No activity tracked
+Dart             21 hrs 3 mins   >>>>>>>>>>>>>>>>>>-------   73.47 %
+Other            7 hrs 8 mins    >>>>>>-------------------   24.93 %
 ```
 
 <!--END_SECTION:waka-->
