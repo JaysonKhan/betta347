@@ -18,11 +18,12 @@ jobs:
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
         # Variables to format the message
-        REPO_NAME="*${GITHUB_REPOSITORY}*"  # Bold repository name
+        REPO_NAME="📂 *${GITHUB_REPOSITORY}*"  # Bold repository name with icon
         PUSHER_NAME="${{ github.actor }}"  # Person who pushed the changes
-        COMMIT_MESSAGE="_${{ github.event.head_commit.message }}_"  # Italic commit message
-        COMMIT_ID="${{ github.event.head_commit.id }}"
-        COMMIT_URL="${{ github.event.head_commit.url }}"
+        PUSHER_LINK="https://github.com/${PUSHER_NAME}"  # Link to pusher's GitHub profile
+        COMMIT_MESSAGE="💬 _${{ github.event.head_commit.message }}_"  # Italic commit message with icon
+        COMMIT_ID="🆔 \`${{ github.event.head_commit.id }}\`"  # Commit ID with icon
+        COMMIT_URL="${{ github.event.head_commit.url }}"  # Link to the commit
 
         # Telegram API call to send a sticker (Optional)
         curl -s -X POST https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendSticker \
@@ -33,4 +34,4 @@ jobs:
         curl -s -X POST https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage \
           -d chat_id=${TELEGRAM_CHAT_ID} \
           -d parse_mode="Markdown" \
-          -d text="📝 *GitHub Actions Notification*%0A%0ARepository: ${REPO_NAME}%0APushed by: ${PUSHER_NAME}%0ACommit Message: ${COMMIT_MESSAGE}%0ACommit ID: \`${COMMIT_ID}\`%0A[View Commit](${COMMIT_URL})"
+          -d text="📝 *GitHub Actions Notification*%0A%0A${REPO_NAME}%0A👤 Pushed by: [${PUSHER_NAME}](${PUSHER_LINK})%0A${COMMIT_MESSAGE}%0A${COMMIT_ID}%0A➡️[View Commit](${COMMIT_URL})⬅️"
