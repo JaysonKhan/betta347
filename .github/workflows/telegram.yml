@@ -1,0 +1,20 @@
+name: Telegram Notification
+
+on: 
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, closed]
+
+jobs:
+  notify_telegram:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Send notification to Telegram
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        curl -s -X POST https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage -d chat_id=${TELEGRAM_CHAT_ID} -d text="GitHub Actions is completed for ${GITHUB_REPOSITORY} on ${GITHUB_REF} branch."
