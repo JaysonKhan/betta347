@@ -17,4 +17,19 @@ jobs:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
-        curl -s -X POST https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage -d chat_id=${TELEGRAM_CHAT_ID} -d text="GitHub Actions is completed for ${GITHUB_REPOSITORY} on ${GITHUB_REF} branch."
+        # Variables to format the message
+        REPO_NAME="*${GITHUB_REPOSITORY}*"  # Makes the repository name bold in Markdown
+        COMMIT_MESSAGE="${{ github.event.head_commit.message }}"
+        COMMIT_ID="${{ github.event.head_commit.id }}"
+        COMMIT_URL="${{ github.event.head_commit.url }}"
+
+        # Telegram API call to send a sticker (Optional)
+        curl -s -X POST https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendSticker \
+          -d chat_id=${TELEGRAM_CHAT_ID} \
+          -d sticker="CAACAgIAAxkBAAED3d9kItBtdNkEjFWfpAfqZEDG5jM_jAACAwADwDZPE4nTUpUqOikvHgQ"  # Example sticker ID
+
+        # Telegram API call to send the message with Markdown formatting
+        curl -s -X POST https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage \
+          -d chat_id=${TELEGRAM_CHAT_ID} \
+          -d parse_mode="Markdown" \
+          -d text="📝 *GitHub Actions Notification*%0A%0ARepository: ${REPO_NAME}%0ACommit Message: ${COMMIT_MESSAGE}%0ACommit ID: \`${COMMIT_ID}\`%0A[View Commit](${COMMIT_URL})"
