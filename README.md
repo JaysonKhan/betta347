@@ -49,10 +49,10 @@ Other                  284 hrs 43 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 <h3>Where to find me</h3>
 <p align = "center">
-  <a href="https://github.com/betta347" target="_blank">
+  <a href="https://github.com/JaysonKhan" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
-  <a href="https://t.me/betta_347" target="_blank">
+  <a href="https://t.me/JaysonKhan" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a> 
   <a href="https://twitter.com/j_khan347" target="_blank">
